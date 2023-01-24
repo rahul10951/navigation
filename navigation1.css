@@ -1,0 +1,138 @@
+.image {
+	height: 100px;
+	width: 200px;
+	padding: 8px;
+}
+#go {
+	background-color: white;
+	color: #34eb52;
+	padding: 8px;
+	border-radius: 7px;
+	font-family: 'Roboto';
+	font-weight: bold;
+	border: 0px;
+}
+#go:hover {
+	color: white;
+	background-color:#34eb52 ;
+	border: none;
+}
+.bgimg {
+	background-image: url('https://cdn.autoportal.com/media/news/16682/main/22a8f337c896609d55f78f78c7092130/thumbnail_cropped.jpg');
+	background-size: cover;
+	height: 70vh;
+}
+.head {
+	color: white;
+	font-family: 'Roboto';
+	font-weight: bolder;
+}
+.paraline {
+	color: white;
+	font-family: 'Roboto';
+	font-weight: bolder;
+}
+.head1 {
+	color: black;
+	font-family: 'Roboto';
+	font-weight: bolder;
+	margin: 20px;
+}
+.para {
+	margin: 20px;
+	font-weight: bolder;
+}
+.image3 {
+	width:150px;
+	height: 100px;
+	}
+.box2 {
+	background-color:white;
+	width: 350px;
+	border-radius: 15px;
+	padding:5px;
+	height: 210px;
+	text-align: center;
+	margin: 20px;
+}
+.head2 {
+	font-size: 30px;
+}
+.price {
+	padding: 8px;
+}
+.color {
+	background-color: ghostwhite;
+}
+.box3 {
+	background-color:white;
+	width: 250px;
+	border-radius: 15px;
+	padding:5px;
+	height: 300px;
+	text-align: center;
+	margin: 20px;
+	border:solid ;
+	border-color:whitesmoke;
+}
+.image4 {
+	width:150px;
+	height: 170px;
+	}
+#buttonst {
+	border-radius: 8px;
+	color: white;
+	background-color: red;
+	width: 200px;
+	height: 50px;
+	border-width: 0px;
+	font-weight: bolder;
+	margin-right: 20px;
+} 
+.button {
+	margin: 20px;
+}
+.gradient {
+	background-image: linear-gradient( #eb8034, #eba834);
+	height: 120vh;
+}
+.map {
+	margin: 20px;
+	width: 400px;
+	height: 600px;
+}
+.deco {
+	font-weight: bolder;
+}
+.form-group {
+	border-radius: 5px;
+	margin: 30px;
+}
+.head5 {
+	margin: 5px;
+}
+.image7 {
+	width:350px;
+	height: 100px;
+	margin: 5px;
+	}		
+.color1 {
+	background-color: white;
+}	
+.social {
+	font-size: 50px;
+}
+#go1 {
+	background-color: white;
+	color: red;
+	padding: 5px;
+	border-radius: 7px;
+	font-family: 'Roboto';
+	font-weight: bold;
+	border: 0px;
+	border-width: 50px;
+}
+#go1:hover {
+	color: white;
+	background-color:red ;
+	border: none;
